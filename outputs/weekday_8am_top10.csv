@@ -1,0 +1,11 @@
+station_id,station_name,departures,arrivals,avg_net_outflow_per_day
+6756.05,W 44 St & 11 Ave,825,255,25.9
+5659.05,E 10 St & Ave A,834,266,25.8
+5847.01,Christopher St & Greenwich St,862,301,25.5
+5584.04,E 6 St & Ave B,701,185,23.5
+7183.03,Riverside Blvd & W 67 St,634,122,23.3
+6756.01,W 43 St & 10 Ave,707,209,22.6
+5335.07,Grand St & Samuel Dickstein Plaza,602,111,22.3
+5779.09,E 13 St & Ave A,740,265,21.6
+5515.02,E 2 St & Ave B,568,98,21.4
+6230.04,FDR Drive & E 35 St,635,178,20.8
