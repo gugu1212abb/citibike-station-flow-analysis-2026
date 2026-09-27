@@ -14,7 +14,7 @@
 
 - 数据：[Citi Bike System Data](https://citibikenyc.com/system-data) 中的 `202604-citibike-tripdata.zip`，含四个 CSV 分片。研究范围为 2026 年 4 月；获取日期：2026-09-27。
 - 开发：Python 3.11.4、DuckDB 1.5.5；数据库文件为 `citibike.duckdb`。
-- 可视化：观远 BI 网页版。当前项目**没有使用 Power BI**，因此简历和展示中应如实写观远 BI。
+- 可视化：观远 BI 网页版。
 - 数据使用遵循 [Citi Bike Data Sharing Policy](https://citibikenyc.com/data-sharing-policy)。作品集提供来源链接、代码与汇总结果，不作为独立数据集重新发布原始交易文件。
 
 ## 数据处理与口径
